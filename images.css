@@ -1,0 +1,27 @@
+img {
+    display: block;
+}
+.img-one {
+    margin-left: auto;
+}
+.img-two {
+    margin: 20px auto;
+}
+
+.background {
+    
+    border: 2px solid black; /* da bi se izdvojio u odnosu na prethodni zadatak */
+
+    /* repeated and fixed */
+    /* background-image: url(img/storm.JPG);
+    background-attachment: fixed; */
+
+    /* Position task */
+    /* background: url(img/bg.JPG) no-repeat right;
+    background-attachment: fixed; */
+
+    /* size */
+    background: url(img/bg.JPG) no-repeat;
+    background-size: cover;
+
+}
